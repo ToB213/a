@@ -1,0 +1,20 @@
+.terminal {
+    background-color: #000;
+    color: #fff;
+    font-family: monospace;
+    padding: 10px;
+    border-radius: 5px;
+    overflow: auto;
+  }
+  
+  .prompt {
+    color: #0f0;
+  }
+  
+  .input {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    outline: none; 
+    font-family: monospace;
+  }
